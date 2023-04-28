@@ -3,7 +3,7 @@ An Ai model written in python using tensor flow to diagnose illnesses and injuri
 
 The app to wrap this ai model can be found here: https://github.com/Aid-Team/Aid-app
 
-## Note that this project is only created for educational purposes and this is not 100% reliable shouldn't be used for actual medical advice. It only serves as a prototype to show the possibilities of ai
+## Note that this project is only created for educational purposes and this is not 100% reliable and shouldn't be used for actual medical advice. It only serves as a prototype to show the possibilities of ai
 
 # LICENSE
 
